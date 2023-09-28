@@ -1,0 +1,5 @@
+total 16
+-rw-r--r--  1 shubham.prajapat  staff  43 Sep 27 21:16 stderr-to-file.sh
+-rw-r--r--  1 shubham.prajapat  staff   0 Sep 27 21:18 stderr-to-file.txt
+-rw-r--r--  1 shubham.prajapat  staff  38 Sep 27 21:14 stdout-to-file.sh
+-rw-r--r--  1 shubham.prajapat  staff   0 Sep 27 21:18 stdout-to-file.txt
